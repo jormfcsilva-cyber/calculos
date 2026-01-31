@@ -28,5 +28,16 @@ namespace Calculos
         {
             return a - b;
         }
+        /// <summary>
+        /// Operação de multiplicação entre dois números inteiros.
+        /// </summary>  
+        /// // <returns>Retorna a multiplicação dos dois números.</returns>
+        public static int Multiplicar(int a, int b)
+        {
+            return a * b;
+        }
+
+
+
     }
 }
