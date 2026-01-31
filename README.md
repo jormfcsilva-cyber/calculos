@@ -24,6 +24,6 @@ Neste momento esta aplicação implementa as seguintes operações:
 - Visual Studio 2022
 - C#
 - Git
-- GitHub Desktop
-- Plataforma GitHub
+- GitHub Desktop (gestão local do repositório)
+- Plataforma GitHub (publicação e partilha do código)
 
